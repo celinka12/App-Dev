@@ -1,0 +1,11 @@
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\bin\Debug\HW_W2_Celin.exe.config
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\bin\Debug\HW_W2_Celin.exe
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\bin\Debug\HW_W2_Celin.pdb
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.csproj.AssemblyReference.cache
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.Form1.resources
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.Properties.Resources.resources
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.csproj.GenerateResource.cache
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.csproj.CoreCompileInputs.cache
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.exe
+C:\Users\Celinka\source\repos\HW_W2_Celin\HW_W2_Celin\obj\Debug\HW_W2_Celin.pdb
