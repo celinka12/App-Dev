@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{09F48397-1529-493D-A3CB-790020E25433}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>THA_W7_CELINKA_E</RootNamespace>
+    <AssemblyName>THA_W7_CELINKA_E</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="age of ultron.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="age of ultron.Designer.cs">
+      <DependentUpon>age of ultron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="captain america.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="captain america.Designer.cs">
+      <DependentUpon>captain america.cs</DependentUpon>
+    </Compile>
+    <Compile Include="choose Movie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choose Movie.Designer.cs">
+      <DependentUpon>choose Movie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infinity war.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infinity war.Designer.cs">
+      <DependentUpon>infinity war.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iron man 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="iron man 1.Designer.cs">
+      <DependentUpon>iron man 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JamTayang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JamTayang.Designer.cs">
+      <DependentUpon>JamTayang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="movie1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movie1.Designer.cs">
+      <DependentUpon>movie1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="spiderman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spiderman.Designer.cs">
+      <DependentUpon>spiderman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teman tapi menikah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teman tapi menikah.Designer.cs">
+      <DependentUpon>teman tapi menikah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="train to busan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="train to busan.Designer.cs">
+      <DependentUpon>train to busan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="age of ultron.resx">
+      <DependentUpon>age of ultron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="captain america.resx">
+      <DependentUpon>captain america.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="choose Movie.resx">
+      <DependentUpon>choose Movie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infinity war.resx">
+      <DependentUpon>infinity war.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="iron man 1.resx">
+      <DependentUpon>iron man 1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JamTayang.resx">
+      <DependentUpon>JamTayang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movie1.resx">
+      <DependentUpon>movie1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="spiderman.resx">
+      <DependentUpon>spiderman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teman tapi menikah.resx">
+      <DependentUpon>teman tapi menikah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="train to busan.resx">
+      <DependentUpon>train to busan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\A quiet Place.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avenger Age of Ultron.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avenger infinity war.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CaptainMarvel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IronMan1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spiderman no way home.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teman tapi menikah.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TraintoBusan.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
