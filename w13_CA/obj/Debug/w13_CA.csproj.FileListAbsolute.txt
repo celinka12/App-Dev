@@ -1,0 +1,11 @@
+C:\Users\student\source\repos\w13_CA\w13_CA\bin\Debug\w13_CA.exe.config
+C:\Users\student\source\repos\w13_CA\w13_CA\bin\Debug\w13_CA.exe
+C:\Users\student\source\repos\w13_CA\w13_CA\bin\Debug\w13_CA.pdb
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.Form1.resources
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.Properties.Resources.resources
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.csproj.GenerateResource.cache
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.exe
+C:\Users\student\source\repos\w13_CA\w13_CA\obj\Debug\w13_CA.pdb
